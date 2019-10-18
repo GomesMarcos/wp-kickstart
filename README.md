@@ -8,7 +8,7 @@
 
 ## [Intro](#intro)
 
-Este documento contém todas as informações necessárias para a inicialização do ambiente de desenvolvimento do projeto Puranatus.
+Este documento contém todas as informações necessárias para a inicialização do ambiente de desenvolvimento com WordPress.
 
 ## Stack(#stack)
 
